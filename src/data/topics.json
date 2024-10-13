@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "Python",
+    "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
+  },
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "description": "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat."
+  },
+  {
+    "id": 2,
+    "name": "Java",
+    "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+  },
+  {
+    "id": 3,
+    "name": "Azure",
+    "description": "Microsoft Azure, or just Azure, is the cloud computing platform developed by Microsoft. It has management, access and development of applications and services to individuals, companies, and governments through its global infrastructure."
+  },
+  {
+    "id": 4,
+    "name": "Large Language Model (LLM)",
+    "description": "A large language model (LLM) is a type of artificial intelligence (AI) program that can recognize and generate text, among other tasks."
+  }
+]
